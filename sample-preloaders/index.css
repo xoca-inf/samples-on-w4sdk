@@ -1,0 +1,26 @@
+.w4-loader {
+    display: inline-block;
+    position: absolute;
+    top:    75%;
+    left:   calc(50% - 5vw);
+    width:  100vw;
+    height: 100vh;
+    width:  10vw;
+    height: 10vh;
+}
+.w4-loader div {
+    display: inline-block;
+    position: absolute;
+    border: 1px solid;
+    left:  1vw;
+    width: 2vw;
+    animation: w4-loader 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+    }
+.w4-loader div:nth-child(1) { left: 1vw; animation-delay: -0.24s; background: #336699;}
+.w4-loader div:nth-child(2) { left: 4vw; animation-delay: -0.12s; background: #337799;}
+.w4-loader div:nth-child(3) { left: 7vw; animation-delay: 0;      background: #338899;}
+
+@keyframes w4-loader {
+  0%        { top: 1vh;  height: 8vh;}
+  50%, 100% { top: 3vh;  height: 4vh;}
+}

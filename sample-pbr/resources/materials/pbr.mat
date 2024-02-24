@@ -1,0 +1,10 @@
+{
+    "vertexFile" : "materials/shaders/pbr.vs",
+    "fragmentFile" : "materials/shaders/pbr.fs",
+    "params" : {
+
+    },
+    "defines": [
+        "W4_LIGHT_MODEL 2"
+    ]
+}

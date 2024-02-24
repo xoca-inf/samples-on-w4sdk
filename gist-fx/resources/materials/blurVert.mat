@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "materials/shaders/fx.vs",
+    "fragmentFile" : "materials/shaders/blurVert.fs",
+    "params" : {
+
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "materials/shaders/clouds.vs",
+    "fragmentFile" : "materials/shaders/clouds.fs",
+    "primitiveType" : "TRIANGLES",
+    "params" : {
+    }
+}

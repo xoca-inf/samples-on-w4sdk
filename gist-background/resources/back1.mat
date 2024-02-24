@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "shaders/back.vs",
+    "fragmentFile" : "shaders/back1.fs",
+    "params" :
+    {}
+
+}

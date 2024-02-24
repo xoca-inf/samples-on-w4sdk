@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "materials/shaders/unlit.vs",
+    "fragmentFile" : "materials/shaders/unlit.fs",
+    "params" : {
+
+    }
+}

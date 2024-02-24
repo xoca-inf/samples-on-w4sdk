@@ -1,0 +1,10 @@
+{
+    "vertexFile" : "materials/shaders/mixText.vs",
+    "fragmentFile" : "materials/shaders/mixText.fs",
+    "params" : {
+        "texture1": {"type": "TEXTURE", "data": {"path": "textures/crate_2.png", "type": "file"}, "sWrapping": "Repeat", "tWrapping": "Repeat"}
+    },
+    "defines": [
+        "W4_LIGHT_MODEL 2"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "vertexFile" : "materials/shaders/unlit.vs",
+    "fragmentFile" : "materials/shaders/unlit.fs",
+    "primitiveType" : "TRIANGLES",
+    "params" : {
+    },
+    "defines": []
+}

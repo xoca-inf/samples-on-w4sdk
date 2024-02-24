@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "materials/shaders/std.vs",
+    "fragmentFile" : "materials/shaders/textureCube.fs",
+    "params" : {
+
+    }
+}

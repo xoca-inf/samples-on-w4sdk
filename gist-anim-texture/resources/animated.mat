@@ -1,0 +1,25 @@
+{
+    "vertexFile" : "animated.vs",
+    "fragmentFile" : "animated.fs",
+    "params" : {
+        "countX": {
+            "type": "FLOAT",
+            "data": 6.0
+        },
+        "countY": {
+            "type": "FLOAT",
+            "data": 6.0
+        },
+        "duration": {
+            "type": "FLOAT",
+            "data": 0.6
+        },
+        "texture0": {
+            "type": "TEXTURE",
+            "data": {
+                "type" : "file",
+                "path" : "animation.png"
+            }
+        }
+    }
+}

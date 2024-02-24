@@ -1,0 +1,4 @@
+{
+  "vertexFile" : "materials/shaders/topologica.vs",
+  "fragmentFile" : "materials/shaders/topologica.fs"
+}

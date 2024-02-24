@@ -1,0 +1,10 @@
+{
+    "vertexFile" : "materials/shaders/bump.vs",
+    "fragmentFile" : "materials/shaders/bump.fs",
+    "params" : {
+
+    },
+    "defines": [
+        "W4_LIGHT_MODEL 2"
+    ]
+}

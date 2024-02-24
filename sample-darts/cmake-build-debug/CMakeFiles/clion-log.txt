@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Работа\Движок\sdk\samples\sample-darts
+CMake Error at D:/Р Р°Р±РѕС‚Р°/Р”РІРёР¶РѕРє/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake:129 (message):
+  Failed to fetch compiler version information with command
+  "'D:/Р Р°Р±РѕС‚Р°/Р”РІРёР¶РѕРє/emsdk/upstream/emscripten/emcc.bat' -v"!
+  Process returned with error code 1.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2021.2.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeDetermineSystem.cmake:123 (include)
+  CMakeLists.txt:9 (project)
+
+
+-- Configuring incomplete, errors occurred!

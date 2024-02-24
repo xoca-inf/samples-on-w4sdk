@@ -1,0 +1,7 @@
+{
+    "vertexFile" : "materials/shaders/sphere.vs",
+    "fragmentFile" : "materials/shaders/sphere.fs",
+    "params" : {
+
+    }
+}
